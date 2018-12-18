@@ -1,0 +1,4 @@
+Collect a prime number.
+Collect a number that is divisible by X.
+Collect a number which is a multiple of X.
+Collect a number which is a power of a whole number.

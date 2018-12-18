@@ -1,0 +1,27 @@
+﻿  Missions.cpp
+c:\users\user\documents\visual studio 2015\projects\snake\snake\missions.cpp(17): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\user\documents\visual studio 2015\projects\snake\snake\missions.cpp(20): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\user\documents\visual studio 2015\projects\snake\snake\missions.cpp(23): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\user\documents\visual studio 2015\projects\snake\snake\missions.cpp(26): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\user\documents\visual studio 2015\projects\snake\snake\missions.cpp(29): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\user\documents\visual studio 2015\projects\snake\snake\missions.cpp(32): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\user\documents\visual studio 2015\projects\snake\snake\missions.cpp(52): warning C4101: 'leftDig': unreferenced local variable
+c:\users\user\documents\visual studio 2015\projects\snake\snake\missions.cpp(52): warning C4101: 'midDig': unreferenced local variable
+c:\users\user\documents\visual studio 2015\projects\snake\snake\missions.cpp(52): warning C4101: 'rightDig': unreferenced local variable
+  Generating Code...
+c:\users\user\documents\visual studio 2015\projects\snake\snake\missions.cpp(127): warning C4715: 'Missions::checkNumber': not all control paths return a value
+  Compiling...
+  Game.cpp
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  main.cpp
+  Numbers.cpp
+  Board.cpp
+  Snake.vcxproj -> c:\users\user\documents\visual studio 2015\Projects\Snake\Debug\Snake.exe
+  Snake.vcxproj -> c:\users\user\documents\visual studio 2015\Projects\Snake\Debug\Snake.pdb (Full PDB)

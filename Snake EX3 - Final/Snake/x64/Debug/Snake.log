@@ -1,0 +1,26 @@
+﻿  Board.cpp
+  Bullet.cpp
+  Creature.cpp
+  Game.cpp
+c:\users\itai\documents\visual studio 2015\projects\snake ex3 - final\snake\game.cpp(14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  main.cpp
+  MainMenu.cpp
+c:\users\itai\documents\visual studio 2015\projects\snake ex3 - final\snake\mainmenu.cpp(101): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: see declaration of 'getch'
+  Missions.cpp
+  Numbers.cpp
+c:\users\itai\documents\visual studio 2015\projects\snake ex3 - final\snake\numbers.cpp(224): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Point.cpp
+  Replay.cpp
+  ScondaryMenu.cpp
+  Snake.cpp
+  Utilities.cpp
+c:\users\itai\documents\visual studio 2015\projects\snake ex3 - final\snake\utilities.cpp(113): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  Generating Code...
+c:\users\itai\documents\visual studio 2015\projects\snake ex3 - final\snake\utilities.cpp(41): warning C4715: 'reverseDir': not all control paths return a value
+c:\users\itai\documents\visual studio 2015\projects\snake ex3 - final\snake\utilities.cpp(108): warning C4172: returning address of local variable or temporary: activeMissions
+c:\users\itai\documents\visual studio 2015\projects\snake ex3 - final\snake\point.cpp(91): warning C4715: 'Point::getDir': not all control paths return a value
+c:\users\itai\documents\visual studio 2015\projects\snake ex3 - final\snake\numbers.cpp(307): warning C4715: 'NumsOnScreen::getNumberByPosition': not all control paths return a value
+c:\users\itai\documents\visual studio 2015\projects\snake ex3 - final\snake\missions.cpp(99): warning C4715: 'Missions::checkNumber': not all control paths return a value
+c:\users\itai\documents\visual studio 2015\projects\snake ex3 - final\snake\missions.cpp(269): warning C4715: 'Missions::Mission7::calculator': not all control paths return a value
+  Snake.vcxproj -> C:\Users\Itai\Documents\Visual Studio 2015\Projects\Snake EX3 - Final\x64\Debug\Snake.exe

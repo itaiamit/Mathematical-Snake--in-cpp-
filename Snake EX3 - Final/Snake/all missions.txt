@@ -1,0 +1,7 @@
+Collect the power of X.
+Collect a prime number.
+Collect a number that is divisible by X.
+Collect a number which is a multiple of X.
+Collect a number which is a power of a whole number.
+Collect a number which when divided by X leaves a remainder of Y.
+num1 op1 num2 op2 num3 = num4
